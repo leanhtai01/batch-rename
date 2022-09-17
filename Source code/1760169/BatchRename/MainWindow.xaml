@@ -1,0 +1,132 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRename"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="BatchRename.MainWindow"
+        mc:Ignorable="d"
+        Title="Batch Renamer" Height="530" Width="1208" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Canvas>
+        <!--toolbar refresh, help, start batch-->
+        <ToolBarTray>
+            <ToolBar>
+                <Button Name="btnStartBatch" Content="START BATCH" Click="BtnStartBatch_Click"/>
+                <Separator/>
+                <Menu>
+                    <MenuItem Name="menuHelp" Header="Help">
+                        <MenuItem Name="menuDocument" Header="Document"/>
+                        <MenuItem Name="menuAbout" Header="About" Click="MenuAbout_Click"/>
+                    </MenuItem>
+                </Menu>
+            </ToolBar>
+        </ToolBarTray>
+        
+        <!--toolbar add method, clear-->
+        <ToolBarTray Canvas.Top="28">
+            <ToolBar Width="149">
+                <Menu>
+                    <MenuItem Name="menuAddMethod" Header="Add method">
+                        <MenuItem Name="menuReplace" Header="Replace" Click="menuReplace_Click"/>
+                        <MenuItem Name="menuNewCase" Header="New Case" Click="menuNewCase_Click"/>
+                        <MenuItem Name="menuFullnameNormalize" Header="Fullname Normalize" Click="menuFullnameNormalize_Click"/>
+                        <MenuItem Name="menuMove" Header="Move" Click="menuMove_Click"/>
+                        <MenuItem Name="menuUniqueName" Header="Unique Name" Click="menuUniqueName_Click"/>
+                    </MenuItem>
+                </Menu>
+                <Separator/>
+                <Button Name="btnClearMethods" Content="Clear" Click="btnClearMethods_Click"/>
+            </ToolBar>
+        </ToolBarTray>
+        
+        <!--toolbar save preset-->
+        <ToolBarTray Canvas.Top="56">
+            <ToolBar>
+                <Button Name="btnSavePreset" Content="Save"/>
+                <Separator/>
+                <Label Content="Preset: "/>
+                <ComboBox Name="comboBoxPreset" Width="151" Height="22"/>
+            </ToolBar>
+        </ToolBarTray>
+        
+        <!--tabcontrol rename files, rename folders-->
+        <Canvas Width="385" Height="325" Canvas.Left="215" Canvas.Top="35">
+            <TabControl Name="tabControl"  Canvas.Top="-30" Canvas.Left="50">
+
+                <!--rename files tab-->
+                <TabItem Name="tabRenameFiles" Header="Rename Files">
+                    <StackPanel Orientation="Vertical">
+                        <ToolBarTray>
+                            <ToolBar>
+                                <Menu>
+                                    <MenuItem Name="menuFile" Header="Add">
+                                        <MenuItem Name="menuAddFile" Header="File..." Click="menuAddFile_Click"/>
+                                        <MenuItem Name="menuAddFileDirectory" Header="Directory..." Click="menuAddFileDirectory_Click"/>
+                                    </MenuItem>
+                                </Menu>
+                                <Separator/>
+                                <Button Name="btnPreviewFile" Content="Preview" Click="BtnPreviewFile_Click"/>
+                                <Separator/>
+                                <Label Content="Name collision rule: "/>
+                                <ComboBox Name="cbFileNameCollisionRule" Width="120" Height="22">
+                                    <ComboBoxItem Name="cbItemFileIgnore" Content="Ignore"/>
+                                    <ComboBoxItem Name="cbItemFileAppendNumber" Content="AppendNumber" IsSelected="True"/>
+                                </ComboBox>
+                                <Separator/>
+                                <Button Name="btnClearFileRecords" Content="Clear" Click="btnClearFileRecords_Click"/>
+                            </ToolBar>
+                        </ToolBarTray>
+                        <ListView Margin="10" Name="lvFiles" Height="400" Width="900">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Filename" Width="200" DisplayMemberBinding="{Binding Path=Filename, Mode=TwoWay}"/>
+                                    <GridViewColumn Header="New Filename" Width="300" DisplayMemberBinding="{Binding Path=NewFilename, Mode=TwoWay}" />
+                                    <GridViewColumn Header="Path" Width="270" DisplayMemberBinding="{Binding Path=FilePath, Mode=TwoWay}" />
+                                    <GridViewColumn Header="Error" Width="125" DisplayMemberBinding="{Binding Path=FileError, Mode=TwoWay}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </StackPanel>
+                </TabItem>
+
+                <!--rename folders tab-->
+                <TabItem Name="tabRenameFolder" Header="Rename Folders">
+                    <StackPanel Orientation="Vertical">
+                        <ToolBarTray>
+                            <ToolBar>
+                                <Menu>
+                                    <MenuItem Name="menuFolder" Header="Add">
+                                        <MenuItem Name="menuAddFolder" Header="Folder..." Click="menuAddFolder_Click"/>
+                                        <MenuItem Name="menuAddFolderDirectory" Header="Directory..." Click="menuAddFolderDirectory_Click"/>
+                                    </MenuItem>
+                                </Menu>
+                                <Separator/>
+                                <Button Name="btnPreviewFolder" Content="Preview" Click="BtnPreviewFolder_Click"/>
+                                <Separator/>
+                                <Label Content="Name collision rule: "/>
+                                <ComboBox Name="cbFolderNameCollisionRule" Width="120" Height="22">
+                                    <ComboBoxItem Name="cbItemFolderIgnore" Content="Ignore"/>
+                                    <ComboBoxItem Name="cbItemFolderAppendNumber" Content="AppendNumber" IsSelected="True"/>
+                                </ComboBox>
+                                <Separator/>
+                                <Button Name="btnClearFolderRecords" Content="Clear" Click="btnClearFolderRecords_Click"/>
+                            </ToolBar>
+                        </ToolBarTray>
+                        <ListView Margin="10" Name="lvFolder" Height="400" Width="900">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Foldername" Width="200" DisplayMemberBinding="{Binding Path=Foldername, Mode=TwoWay}" />
+                                    <GridViewColumn Header="New Foldername" Width="300" DisplayMemberBinding="{Binding Path=NewFoldername, Mode=TwoWay}" />
+                                    <GridViewColumn Header="Path" Width="270" DisplayMemberBinding="{Binding Path=FolderPath, Mode=TwoWay}" />
+                                    <GridViewColumn Header="Error" Width="125" DisplayMemberBinding="{Binding Path=FolderError, Mode=TwoWay}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </StackPanel>
+                </TabItem>
+            </TabControl>
+        </Canvas>
+        <!--listbox methods-->
+        <ListBox x:Name="listBoxMethods" Height="396" Canvas.Top="92" Width="261"/>
+    </Canvas>
+</Window>

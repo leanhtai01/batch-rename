@@ -1,0 +1,13 @@
+﻿<Window x:Class="BatchRename.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BatchRename"
+        mc:Ignorable="d"
+        Title="AboutWindow" Height="292" Width="464" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Canvas>
+        <Label x:Name="labelID" Content="ID: 1760169" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="138" Canvas.Top="50" FontSize="30" FontWeight="Bold"/>
+        <Label x:Name="labelName" Content="Name: Lê Anh Tài" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="108" Canvas.Top="130" Height="70" Width="255" FontSize="30" FontWeight="Bold"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,62 @@
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\BatchRename.exe.config
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\BatchRename.exe
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\BatchRename.pdb
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.csprojResolveAssemblyReference.cache
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\MainWindow.g.cs
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\App.g.cs
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename_MarkupCompile.cache
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename_MarkupCompile.lref
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\MainWindow.baml
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.g.resources
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.Properties.Resources.resources
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.csproj.GenerateResource.Cache
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.exe
+C:\Users\virtualuser\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\1760169\BatchRename\obj\Debug\BatchRename.pdb
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\BatchRename.exe.config
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\BatchRename.exe
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\BatchRename.pdb
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.csprojAssemblyReference.cache
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\AboutWindow.g.cs
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\MainWindow.g.cs
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\App.g.cs
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename_MarkupCompile.cache
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename_MarkupCompile.lref
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\AboutWindow.baml
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\MainWindow.baml
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.g.resources
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.Properties.Resources.resources
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.csproj.GenerateResource.cache
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.csproj.CoreCompileInputs.cache
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.csproj.CopyComplete
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.exe
+C:\Users\leanh\Dropbox\CD_CNTT\HK2_2018-2019\CSharp\ProjectBatchRename\Source code\1760169\BatchRename\obj\Debug\BatchRename.pdb
